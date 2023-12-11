@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/welly_react/static/css/main.657a5dda.css",
+    "main.js": "/welly_react/static/js/main.65e76b41.js",
+    "index.html": "/welly_react/index.html",
+    "main.657a5dda.css.map": "/welly_react/static/css/main.657a5dda.css.map",
+    "main.65e76b41.js.map": "/welly_react/static/js/main.65e76b41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.657a5dda.css",
+    "static/js/main.65e76b41.js"
+  ]
+}
